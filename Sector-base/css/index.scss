@@ -1,0 +1,105 @@
+
+:root { 
+    --bg: #0b1d26; 
+    --white: #ffffff; 
+    --accent: #fdd130; 
+    --headline1: 500 5.5rem/6.25rem Poppins; 
+    --headline2: 600 4rem/normal Poppins; 
+    --button: 700 1.125rem/normal Poppins; 
+    --body1-bold: 700 1.125rem/2rem Poppins; 
+    --body1-medium: 500 1.125rem/2rem Poppins; 
+    --body1-regular: 400 1.125rem/2rem Poppins;     
+  }
+  
+  body {
+    font: var(--body1-regular);
+  }
+  
+  h1{
+    background-color: var(--bg);
+    color: var(--accent);
+    font: var(--headline1);
+  }
+  
+  h2{
+    font: var(--headline2);
+  }
+  
+  p{
+    font: var(--button);
+  }
+
+
+  .roboto-thin {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+  }
+  
+  .roboto-thin-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: italic;
+  }
+  
+  .roboto-light {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .roboto-light-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+  }
+  
+  .roboto-regular {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .roboto-regular-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .roboto-medium {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  .roboto-medium-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: italic;
+  }
+  
+  .roboto-bold {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .roboto-bold-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+  
+  .roboto-black {
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+  }
+  
+  .roboto-black-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: italic;
+  }
+  
+  
